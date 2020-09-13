@@ -3,12 +3,13 @@
 I am <a href="https://github.com/Gautam-Arora24"> Gautam Arora</a>. An Undergraduate from IT branch. I am currently working on <b>MERN</b> stack. Also I love to explore IOT Devices. Besides programming, I love to play table tennis 🏓
 
 </br>
+<img align="right" height="350px" width="450px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 </br>
 
 <b>Talking About Myself</b>
 
 •  I’m always working on something cool💻 </br>
-•  I’m currently learning Redux, Arduino, Data Structures and Algorithms😯</br>
+•  I’m currently learning Redux, Arduino, DSA😯 </br>
 •  Fun fact: I can sleep for 12 hours straight</br>
 •  How to reach me: </br>
 <a href="https://github.com/Gautam-Arora24"><img height="30px" width="30px" src="https://cdn.pixabay.com/photo/2017/08/05/11/24/logo-2582757__340.png"/></a>
@@ -18,7 +19,7 @@ I am <a href="https://github.com/Gautam-Arora24"> Gautam Arora</a>. An Undergrad
 <br/>
 </br>
 <br/>
-<b>Techologies and Tools I use</b></br>
+<b>Technologies and Tools I use</b></br>
 <img height ="30px" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 <img height ="30px" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
 <img height ="30px" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
