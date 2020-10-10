@@ -10,7 +10,7 @@ I am <a href="https://github.com/Gautam-Arora24"> Gautam Arora</a>. An Undergrad
 <b>Talking About Myself</b>
 
 •  I’m always working on something cool💻 </br>
-•  I’m currently learning Context API, GraphQL, DSA😯 </br>
+•  I’m currently looking to collaborate in <a href="https://github.com/Gautam-Arora24/College-Space">College Space</a></br>
 •  Fun fact: I can sleep for 12 hours straight</br>
 •  How to reach me: </br>
 <a href="https://github.com/Gautam-Arora24"><img height="30px" width="30px" src="https://cdn.pixabay.com/photo/2017/08/05/11/24/logo-2582757__340.png"/></a>
