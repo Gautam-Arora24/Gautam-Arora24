@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am <a href="https://github.com/Gautam-Arora24"> Gautam Arora</a>. An Undergraduate from IT branch. I am currently working on <b>MERN</b> stack. Also I love to explore IOT Devices. Besides programming, I love to play table tennis 🏓
+I am <a href="https://github.com/Gautam-Arora24"> Gautam Arora</a>. An Undergraduate from IT branch. I am currently working on <b>MERN</b> stack. Also I can create prototypes in Adobe XD. Besides programming, I love to play table tennis 🏓
 
 </br>
 <img align="right" height="350px" width="450px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
