@@ -10,8 +10,10 @@ I am <a href="https://github.com/Gautam-Arora24"> Gautam Arora</a>. An Undergrad
 <b>Talking About Myself</b>
 
 •  I’m always working on something cool💻 </br>
+•  I’m currently learning React Native📱 and DSA</br>
 •  I’m currently looking to collaborate in <a href="https://github.com/Gautam-Arora24/bloodInNeed-frontend">Blood In Need</a></br>
 •  Fun fact: I can sleep for 12 hours straight</br>
+•  I'm always open to have a chit-chat with you. Connect with me on my social media handles :)
 •  How to reach me: </br>
 <a href="https://github.com/Gautam-Arora24"><img height="30px" width="30px" src="https://cdn.pixabay.com/photo/2017/08/05/11/24/logo-2582757__340.png"/></a>
 <a href="https://www.linkedin.com/in/gautam-arora-b2788b191/"><img height="30px" width="30px" src="https://cdn.pixabay.com/photo/2017/08/22/11/56/linked-in-2668700__340.png"/></a>
