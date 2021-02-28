@@ -3,7 +3,7 @@ I am <a href="https://github.com/Gautam-Arora24"> Gautam Arora</a>. An Undergrad
 </br>
 <img align="right" height="350px" width="450px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 </br>
-<b>Talking About Myself</b>
+<b>Talking About Myself</b></br>
 •  I’m always working on something cool💻 </br>
 •  I’m currently learning React Native📱 and DSA</br>
 •  I’m currently looking to collaborate in <a href="https://github.com/Gautam-Arora24/bloodInNeed-frontend">Blood In Need</a></br>
