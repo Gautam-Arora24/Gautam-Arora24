@@ -1,31 +1,29 @@
-<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> Hola, Geeks! <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" width="80"></h2>
-
-<h3 align="center"><i><b> 🌈On a beautiful journey of becoming a full stack developer☄️</b></i></h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/gautam-arora-b2788b191/"><img src="https://img.shields.io/badge/-Gautam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gautam-arora-b2788b191/"></a>
-<a href="https://github.com/Gautam-Arora24"><img src="https://img.shields.io/github/followers/Gautam-Arora24?label=follow&style=social"></a>
-<img src="https://gpvc.arturio.dev/Gautam-Arora24">
-<a href="https://github.com/Gautam-Arora24"><img src="https://img.shields.io/badge/Made%20With%20❤️%20By-Gautam-orange"></a>
-</p>
-
-I am *Gautam Arora* 👾 , currently pursuing Bachelor of Technology in Information Technology from G.L Bajaj Institute of Technology and Management. I am an intermediate developer skilled in Java, React, GraphQL, Javascript and its frameworks❄️. I'm currently focusing on DSA and learning more about web technologies📊.  <img src="https://www.georgiancollege.ca/wp-content/uploads/lightbulb.gif" width="30">
-
-
-<img align='right' src="https://thumbs.gfycat.com/EvilNextDevilfish-size_restricted.gif" width="400">
-
-<br>
- <b>Skills: </b>&nbsp;&nbsp;<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="35" height="35"/></a> &nbsp;&nbsp;  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="35" height="35"/> </a>&nbsp;&nbsp;
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/> </a> &nbsp;&nbsp; <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35"/> </a>&nbsp;&nbsp; <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35"/> </a>&nbsp;&nbsp; <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/> </a> &nbsp;&nbsp;
- <br>
-- 🌱 I’m currently learning Graph Algorithms💡
-- 👯 I’m looking to collaborate on MERN Stack projects⭐️ 
-- 💬 Ask me about ```React JS```and ```DSA```
-- 📫 Drop a mail: [gautamarora6248@gmail.com](gautamarora6248@gmail.com)
-- ⚡ Fun fact: Take me for a ***coffee*** break✨ 
-- 🌍 I'm mostly active on [LinkedIn](https://www.linkedin.com/in/gautam-arora-b2788b191/)
-
-<br>
-<p align="center">
-<b>Connect me over here</b><br><br>
-<a href="https://twitter.com/Gautamarora24" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@Gautam-Arora24" height="41" width="51" /></a>&nbsp;&nbsp;
-</p>  
+### Hi there 👋
+I am <a href="https://github.com/Gautam-Arora24"> Gautam Arora</a>. An Undergraduate from IT branch. I am currently working on <b>MERN</b> stack along with GraphQL. Also I can create prototypes in Adobe XD. Besides programming, I love to play table tennis 🏓
+</br>
+<img align="right" height="350px" width="450px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+</br>
+<b>Talking About Myself</b>
+•  I’m always working on something cool💻 </br>
+•  I’m currently learning React Native📱 and DSA</br>
+•  I’m currently looking to collaborate in <a href="https://github.com/Gautam-Arora24/bloodInNeed-frontend">Blood In Need</a></br>
+•  Fun fact: I can sleep for 12 hours straight</br>
+•  I'm always open to have a chit-chat with you :) </br>
+•  How to reach me: </br>
+<a href="https://github.com/Gautam-Arora24"><img height="30px" width="30px" src="https://cdn.pixabay.com/photo/2017/08/05/11/24/logo-2582757__340.png"/></a>
+<a href="https://www.linkedin.com/in/gautam-arora-b2788b191/"><img height="30px" width="30px" src="https://cdn.pixabay.com/photo/2017/08/22/11/56/linked-in-2668700__340.png"/></a>
+<a href="https://www.instagram.com/gautamarora6248/?hl=en"><img height="30px" width="30px" src="https://cdn.pixabay.com/photo/2016/08/09/17/52/instagram-1581266__340.jpg"/></a>
+</br>
+<br/>
+</br>
+<br/>
+<b>Technologies and Tools I use</b></br>
+<img height ="30px" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+<img height ="30px" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
+<img height ="30px" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
+<img height ="30px" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"/>
+<img height ="30px" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"/>
+<img height ="30px" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
+</br>
+</br>
+<img src="https://github-readme-stats.vercel.app/api?username=Gautam-Arora24&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
