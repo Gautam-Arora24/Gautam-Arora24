@@ -29,9 +29,7 @@ I am *Gautam Arora* 👾 , currently pursuing Bachelor of Technology in Informat
 <br>
 <p align="center">
 <b>Connect me over here</b><br><br>
-<a href="https://www.hackerrank.com/@abhishek022kk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@abhishek022kk" height="41" width="51" /></a>&nbsp;&nbsp;
-<a href="https://codeforces.com/profile/ashesvenom" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="ashesvenom" height="41" width="51" /></a>&nbsp;&nbsp;
-<a href="https://www.leetcode.com/abhishek022kk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="abhishek022kk" height="41" width="51" /></a>
+<a href="https://twitter.com/Gautamarora24" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@abhishek022kk" height="41" width="51" /></a>&nbsp;&nbsp;
 </p>  
 
 <p align="center">
