@@ -17,10 +17,9 @@ I am *Gautam Arora* 👾 , currently pursuing Bachelor of Technology in Informat
  <b>Skills: </b>&nbsp;&nbsp;<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="35" height="35"/></a> &nbsp;&nbsp;  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="35" height="35"/> </a>&nbsp;&nbsp;
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/> </a> &nbsp;&nbsp; <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35"/> </a>&nbsp;&nbsp; <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35"/> </a>&nbsp;&nbsp; <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/> </a> &nbsp;&nbsp;
  <br>
-- 🔭 I’m currently contributing to open source organisations.<img src="https://ayfaatechnology.com/wp-content/themes/ayfaa-theme/ayfaa/images/home.gif" width="50">
-- 👯 I’m looking to collaborate on MERN Stack and GraphQL projects⭐️ 
+- 🌱 I’m currently learning Graph Algorithms💡
+- 👯 I’m looking to collaborate on MERN Stack projects⭐️ 
 - 💬 Ask me about ```React JS```and ```DSA```
-- - 🌱 I’m open to have a chit-chat with you 💡
 - 📫 Drop a mail: [gautamarora6248@gmail.com](gautamarora6248@gmail.com)
 - ⚡ Fun fact: Take me for a ***coffee*** break✨ 
 - 🌍 I'm mostly active on [LinkedIn](https://www.linkedin.com/in/gautam-arora-b2788b191/)
@@ -28,5 +27,5 @@ I am *Gautam Arora* 👾 , currently pursuing Bachelor of Technology in Informat
 <br>
 <p align="center">
 <b>Connect me over here</b><br><br>
-<a href="https://twitter.com/Gautamarora24" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@abhishek022kk" height="41" width="51" /></a>&nbsp;&nbsp;
+<a href="https://twitter.com/Gautamarora24" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@Gautam-Arora24" height="41" width="51" /></a>&nbsp;&nbsp;
 </p>  
