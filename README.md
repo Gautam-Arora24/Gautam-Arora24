@@ -1,13 +1,12 @@
 ### Hi there 👋
-I am <a href="https://github.com/Gautam-Arora24"> Gautam Arora</a>. An Undergraduate from IT branch. I am currently working on <b>MERN</b> stack along with GraphQL. Also I can create prototypes in Adobe XD. Besides programming, I love to play table tennis 🏓
+I am <a href="https://github.com/Gautam-Arora24"> Gautam Arora</a>. I am an Open Source contributor. Contributing to numerous projects is what I love the most. <b>React</b> is my weapon ⚔️. Besides programming, I love to play table tennis 🏓
 </br>
 <img align="right" height="350px" width="450px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 </br>
 <b>Talking About Myself</b></br>
-•  I’m always working on something cool💻 </br>
-•  I’m currently learning React Native📱 and DSA</br>
-•  I’m currently looking to collaborate in <a href="https://github.com/Gautam-Arora24/bloodInNeed-frontend">Blood In Need</a></br>
-•  Fun fact: I can sleep for 12 hours straight</br>
+•  I’m always working on something cool. </br>
+•  I’m currently learning about Operating Systems 💻 </br>
+•  Fun fact: I can sleep for 12 hours straigh.t</br>
 •  I'm always open to have a chit-chat with you :) </br>
 •  How to reach me: </br>
 <a href="https://github.com/Gautam-Arora24"><img height="30px" width="30px" src="https://cdn.pixabay.com/photo/2017/08/05/11/24/logo-2582757__340.png"/></a>
