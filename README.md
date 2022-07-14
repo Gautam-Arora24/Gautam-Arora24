@@ -1,11 +1,11 @@
 ### Hi there 👋
-I am <a href="https://github.com/Gautam-Arora24"> Gautam Arora</a>. I am an Open Source contributor. Contributing to numerous projects is what I love the most. <b>React</b> is my weapon ⚔️. Besides programming, I love to play table tennis 🏓
+I am <a href="https://github.com/Gautam-Arora24"> Gautam Arora</a>. I am an Open Source contributor. Contributing to numerous projects is what I love the most. Besides programming, I love to play table tennis 🏓
 </br>
 <img align="right" height="350px" width="450px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 </br>
 <b>Talking About Myself</b></br>
 •  I’m always working on something cool. </br>
-•  I’m currently learning Vue.js and Nuxt 💻 </br>
+•  I’m currently learning Vue.js 💻 </br>
 •  Fun fact: I can sleep for 12 hours straight.</br>
 •  I'm always open to have a chit-chat with you :) </br>
 •  How to reach me: </br>
