@@ -5,7 +5,7 @@ I am <a href="https://github.com/Gautam-Arora24"> Gautam Arora</a>. I am an Open
 </br>
 <b>Talking About Myself</b></br>
 •  I’m always working on something cool. </br>
-•  I’m currently learning TypeScript 💻 </br>
+•  I’m currently learning more about Linux 💻 </br>
 •  Fun fact: I can sleep for 12 hours straight.</br>
 •  I'm always open to have a chit-chat with you :) </br>
 •  How to reach me: </br>
